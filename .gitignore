@@ -24,25 +24,25 @@ CaRMS/nbproject/private/
 CaRMS/build/
 CaRMS/dist/
 
-CaRMS-ejb/nbproject/private/
-CaRMS-ejb/build/
-CaRMS-ejb/dist/
+CaRMS/CaRMS-ejb/nbproject/private/
+CaRMS/CaRMS-ejb/build/
+CaRMS/CaRMS-ejb/dist/
 
-CaRMS-war/nbproject/private/
-CaRMS-war/build/
-CaRMS-war/dist/
+CaRMS/CaRMS-war/nbproject/private/
+CaRMS/CaRMS-war/build/
+CaRMS/CaRMS-war/dist/
 
-CaRMSManagementClient/nbproject/private/
-CaRMSManagementClient/build/
-CaRMSManagementClient/dist/
+CaRMS/CaRMSManagementClient/nbproject/private/
+CaRMS/CaRMSManagementClient/build/
+CaRMS/CaRMSManagementClient/dist/
 
-CaRMSReservationClient/nbproject/private/
-CaRMSReservationClient/build/
-CaRMSReservationClient/dist/
+CaRMS/CaRMSReservationClient/nbproject/private/
+CaRMS/CaRMSReservationClient/build/
+CaRMS/CaRMSReservationClient/dist/
 
-CaRMSLibrary/nbproject/private/
-CaRMSLibrary/build/
-CaRMSLibrary/dist/
+CaRMS/CaRMSLibrary/nbproject/private/
+CaRMS/CaRMSLibrary/build/
+CaRMS/CaRMSLibrary/dist/
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
